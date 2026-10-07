@@ -1,29 +1,21 @@
-# 🧙‍♂️👨‍💻 Shazannxz
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AEAEAE&width=435&lines=Hello%2C+welcome." alt="Typing SVG"
+  </a>
+</div>
+      
+#
+Hi, I'm Shazan! I'm 18 years old, a Brazilian developer, and I'm always looking to improve and expand my knowledge.
+#
 
-**`Developer FullStack`**
+<img align="right" alt="" height="200px" src="./src/coding.gif">
 
-[![Meu Perfil Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1387567343546273903)
-![Backend](https://img.shields.io/badge/backend-%23000000?style=for-the-badge&logoColor=white)
----
+<h3 align="left"/h3>
 
-### 🤖 Languages and Tools
+[![My Profile Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1524472259715141722)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<h3 align="left">My Stack´s</h3>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -80,13 +72,39 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 <br/>
-<br/>
 
----
+<h3 align="left">GitHub Stats</h3>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-%23363636.svg?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=Shazanxz&show_icons=true&theme=dark&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Shazanxz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazanxz/Shazanxz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shazanxz/Shazanxz/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
